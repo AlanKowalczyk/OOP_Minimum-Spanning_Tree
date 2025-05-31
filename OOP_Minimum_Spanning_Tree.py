@@ -13,7 +13,7 @@ file_name = 'week1.csv'
 from hashlib import sha256
 import drawsvg
 from operator import attrgetter
-from Alan_Kowalczyk_classes_HEP503 import *
+from classes import *
 import heapq
 import datetime as dt
 
